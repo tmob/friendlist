@@ -1,0 +1,5 @@
+C:\Users\Eric\documents\visual studio 2010\Projects\FriendListApp\FriendListApp\bin\FriendListApp.dll
+C:\Users\Eric\documents\visual studio 2010\Projects\FriendListApp\FriendListApp\bin\FriendListApp.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\FriendListApp\FriendListApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\documents\visual studio 2010\Projects\FriendListApp\FriendListApp\obj\Debug\FriendListApp.dll
+C:\Users\Eric\documents\visual studio 2010\Projects\FriendListApp\FriendListApp\obj\Debug\FriendListApp.pdb
